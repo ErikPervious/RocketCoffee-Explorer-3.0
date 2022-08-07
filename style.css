@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Serif:opsz,wght@8..144,700&display=swap');
+
+#main {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  background-color: #FFEDD5;
+}
+h1, h2, h3, .price  {
+  font-family: 'Roboto Serif', sans-serif;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
